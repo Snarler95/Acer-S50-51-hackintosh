@@ -1,0 +1,1 @@
+## Acer-S50-51-hackintosh EFI Changelog
