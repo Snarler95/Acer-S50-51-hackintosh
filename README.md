@@ -54,4 +54,5 @@
 
 ## 参考教程
 
-- [参考教程]:https://dortania.github.io/OpenCore-Install-Guide/
+[教程链接]: https://dortania.github.io/OpenCore-Install-Guide
+
